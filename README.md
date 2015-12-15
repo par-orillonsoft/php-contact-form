@@ -11,6 +11,9 @@ Filling the void of simplicity mixed with cross platform capability. Just includ
 * Customizable heading, drop down field and error messages
 * Auto reply email
 
+* Compatible Browsers: 	IE8, IE9, IE10, IE11, Firefox, Safari, Opera, Chrome
+* PHP Version: PHP 5.x, PHP 5.0 - 5.2, PHP 5.3, PHP 5.4
+
 
 ###File Structure
 
